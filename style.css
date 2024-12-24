@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 13rem;
+  background-color: #c6c3de;
+  background-image: url(img/dark-honeycomb.png);
+  color: white;
+}
+
+#skills {
+  background-color: #c6c3de;
+}
+
+section {
+  padding-top: 5rem;
+}

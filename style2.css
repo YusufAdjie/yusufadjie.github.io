@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #cecfed;
+}
+
+.jumbotron img:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+#projects {
+  background-color: #cecfed;
+}
+
+section {
+  padding-top: 5rem;
+}

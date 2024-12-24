@@ -1,0 +1,15 @@
+body {
+  font-family: Calibri;
+}
+
+.navbar {
+  font-family: Calibri;
+}
+
+.container a {
+  color: rgb(84, 84, 84);
+}
+
+#main-bar {
+  background-color: yellow;
+}
